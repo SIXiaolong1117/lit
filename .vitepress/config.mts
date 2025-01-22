@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: 'https://myblog.sixiaolong.win/' },
+      // { text: 'Blog', link: 'https://myblog.sixiaolong.win/' },
       { text: 'GitHub', link: 'https://Github.sixiaolong.win/' },
       { text: 'Twitter', link: 'https://Twitter.sixiaolong.win/' },
       { text: 'BiliBili', link: 'https://BiliBili.sixiaolong.win/' },

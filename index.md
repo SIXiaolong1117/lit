@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 项目一览
       link: https://myblog.sixiaolong.win/works.html
+    - theme: brand
+      text: 我的博客
+      link: https://myblog.sixiaolong.win/
     # - theme: alt
     #   text: Github
     #   link: https://Github.sixiaolong.win/
